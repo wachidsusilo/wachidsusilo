@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wachidsusilo
 - 👀 I’m interested in any sort of programming
-- 🌱 I’m currently learning React, Android Studio, Arduino, and Visual Studio
+- 🌱 I’m currently learning NodeJS, React, Android Studio, and Arduino
 - 💞️ I’m looking to collaborate on any project
 - 📫 Get in touch with me on [Facebook](https://facebook.com/wchid)
 
